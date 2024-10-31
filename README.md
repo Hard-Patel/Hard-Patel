@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Hard Patel
 
-With over 2.5 years of experience as a Software Engineer, I'm a passionate React Native Developer who aims to create robust mobile applications for both Android and iOS! I have the enthusiasm to develop good user interfaces with great user experience and contribute my skills to both revolutionary startups and giant enterprise projects. I'm currently exploring Full Stack development with MERN techstack and eager to apply my learnings to the real world problems. Let's connect and create some magic with code! 🚀
+With over 2.5 years of experience as a Software Engineer, I'm a passionate React Native Developer who aims to create robust mobile applications for both Android and iOS! I have the enthusiasm to develop good user interfaces with great user experience and contribute my skills to both revolutionary startups and giant enterprise projects. I'm currently exploring Full Stack development with MERN and eager to apply my learnings to the real world problems. Let's connect and create some magic with code! 🚀
 
 📨 Connect with me!
 
