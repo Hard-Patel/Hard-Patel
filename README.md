@@ -16,11 +16,6 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
 - 🌱 I’m currently learning; MERN (MongoDB/MySQL, Express, React & Node).
 - 💬 Ask me about **JavaScript, TypeScript, React Native, React, Kotlin, Java, Firebase**
 - 📫 Reach me at: hardpatel2602@gmail.com.
-- ⚡ Fun fact: I like playing cricket.
-
-
-In addition to my professional pursuits, I have a keen interest in watching movies, web series and following cricket matches.
-
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
