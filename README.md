@@ -11,15 +11,11 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
   - ⚡ Fun fact: I look like playing cricket.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Hardpatel2602" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/hard-patel-b0b508215/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-Kumar_Sahitya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-sahitya)
+[![Mail Badge](https://img.shields.io/badge/-@__sahitya__sk__2728-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_sahitya_sk_2728)
+[![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ksahitya27@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-2b3137?style=flat&labelColor=2b3137&logo=github&logoColor=white)](mailto:ksahitya27@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Kumar_Sahitya-FF5722?style=flat&labelColor=FF5722&logo=blogger&logoColor=white)](https://sahityakumarsk.blogspot.com/)
 
 ------
 <h3 align="left">Activity:</h3>
