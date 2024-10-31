@@ -22,7 +22,7 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,js,ts,androidstudio,apple,kotlin,java,styledcomponents,sentry,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,js,ts,kotlin,java,styledcomponents,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
