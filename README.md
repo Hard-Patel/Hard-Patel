@@ -64,7 +64,3 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
 
 [![Hard's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hard-Patel)](https://git.io/streak-stats)
 </details>
-
-------
-
-[Hard-Patel](https://github.com/Hard-Patel)
