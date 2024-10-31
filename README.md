@@ -17,8 +17,6 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
 - 💬 Ask me about **JavaScript, TypeScript, React Native, React, Kotlin, Java, Firebase**
 - 📫 Reach me at: hardpatel2602@gmail.com.
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
