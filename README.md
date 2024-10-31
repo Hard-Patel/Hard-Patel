@@ -58,4 +58,20 @@ In addition to my professional pursuits, I have a keen interest in watching movi
 </table>
 
 ------
+
+<details>
+<summary>
+  Github Stats
+</summary>
+
+<br >
+
+![Hard's github stats](https://github-readme-stats-iota-snowy-99.vercel.app/api?username=Hard-Patel&count_private=true&show_icons=true&locale=en&include_all_commits=true)
+![Hard's top-langs stats](https://github-readme-stats-iota-snowy-99.vercel.app/api/top-langs?username=Hard-Patel&count_private=true&show_icons=true&locale=en&include_all_commits=true&layout=compact) 
+
+[![Hard's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hard-Patel)](https://git.io/streak-stats)
+</details>
+
+------
+
 [Hard-Patel](https://github.com/Hard-Patel)
