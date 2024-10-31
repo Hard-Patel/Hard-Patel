@@ -44,10 +44,6 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=npm,redux,postman,firebase,bash,gcp,githubactions,gradle"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr>
 </table>
 
 ------
