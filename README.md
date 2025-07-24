@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Hard Patel
 
-With over 2.5 years of experience as a Software Engineer, I'm a passionate React Native Developer who aims to create robust mobile applications for both Android and iOS! I have the enthusiasm to develop good user interfaces with great user experience and contribute my skills to both revolutionary startups and giant enterprise projects. I'm currently exploring Full Stack development with MERN and eager to apply my learnings to the real world problems. Let's connect and create some magic with code! 🚀
+With over 3 years of experience as a Software Engineer, I'm a passionate React and React Native Developer who aims to create robust applications for both Web and Mobile! I have the enthusiasm to develop good user interfaces with great user experience and contribute my skills to both revolutionary startups and giant enterprise projects. I'm currently exploring Web3 and eager to apply my learnings to the real world problems. Let's connect and create some magic with code! 🚀
 
 📨 Connect with me!
 
@@ -12,9 +12,9 @@ With over 2.5 years of experience as a Software Engineer, I'm a passionate React
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @Intuz Solutions as React Native Developer
-- 🌱 I’m currently learning; MERN (MongoDB/MySQL, Express, React & Node).
-- 💬 Ask me about **JavaScript, TypeScript, React Native, React, Kotlin, Java, Firebase**
+- 🔭 I’m currently working at @eSparkBiz as Software Engineer
+- 🌱 I’m currently learning; Web3
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Kotlin, Java, Firebase**
 - 📫 Reach me at: hardpatel2602@gmail.com.
 
 ------
