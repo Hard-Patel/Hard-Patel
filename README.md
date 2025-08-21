@@ -59,4 +59,6 @@ With over 3 years of experience as a Software Engineer, I'm a passionate React a
 ![Hard's top-langs stats](https://github-readme-stats-iota-snowy-99.vercel.app/api/top-langs?username=Hard-Patel&count_private=true&show_icons=true&locale=en&include_all_commits=true&layout=compact) 
 
 [![Hard's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hard-Patel)](https://git.io/streak-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hard-patel.Hard-patel)
 </details>
