@@ -13,7 +13,7 @@ With over 4 years of experience as a Software Engineer, I'm a passionate React a
 ### What I currently Do
 
 - 🔭 I’m currently working at @Key.AI as Product Engineer
-- 🌱 I’m currently learning; Web3
+- 🌱 I’m currently learning; Artificial Intelligence
 - 💬 Ask me about **JavaScript, TypeScript, Next.JS, React, React Native, Kotlin, Java, Firebase**
 - 📫 Reach me at: hardpatel2602@gmail.com.
 
